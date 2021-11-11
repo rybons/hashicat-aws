@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Home of Jenkins, the ultimate DevOps tool
+  Welcome to ${PREFIX}'s app. Home of Jenkins, the ultimate DevOps tool
   <!-- END -->
 
   </div>
